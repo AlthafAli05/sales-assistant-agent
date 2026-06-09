@@ -1,0 +1,25 @@
+{
+  "plans": [
+    {
+      "name": "Starter",
+      "price": "$49/mo",
+      "features": ["5 users", "API access", "email support", "1GB storage", "basic analytics"]
+    },
+    {
+      "name": "Growth",
+      "price": "$199/mo",
+      "features": ["25 users", "webhooks", "priority support", "10GB storage", "advanced analytics", "custom integrations"]
+    },
+    {
+      "name": "Enterprise",
+      "price": "$499/mo",
+      "features": ["unlimited users", "SSO", "audit logs", "SLA", "unlimited storage", "dedicated support", "custom contracts", "GDPR tools"]
+    }
+  ],
+  "faqs": [
+    {"q": "Is there a free trial?", "a": "Yes, all plans come with a 14-day free trial, no credit card required."},
+    {"q": "Can I upgrade or downgrade?", "a": "Yes, you can change plans at any time. Upgrades are immediate, downgrades apply at next billing cycle."},
+    {"q": "What payment methods do you accept?", "a": "We accept all major credit cards, PayPal, and wire transfer for Enterprise plans."},
+    {"q": "Is my data secure?", "a": "Yes, we use AES-256 encryption at rest and TLS in transit. Enterprise plans include audit logs and GDPR tools."}
+  ]
+}
