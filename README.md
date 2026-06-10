@@ -3,7 +3,7 @@
 A persistent AI sales assistant API with cross-session memory, real tool use, and self-evaluation on every response.
 
 ## Live URL
-> Add your Railway URL here after deployment
+> https://sales-assistant-agent-production-65a2.up.railway.app
 
 ---
 
